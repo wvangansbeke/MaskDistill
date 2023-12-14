@@ -1,0 +1,36 @@
+# Dataset
+train_db_name: VOCSegmentation
+train_db_kwargs:
+   split: trainaug
+   batch_size: 24
+   transforms: fblib_pascal
+val_db_name: VOCSegmentation
+val_db_kwargs:
+   batch_size: 16
+   transforms: fblib_pascal
+num_workers: 4
+
+# Model
+backbone: 'resnet50'
+model_kwargs:
+  pretraining: 'moco'
+  pretraining_path: pretrained/moco.pth.tar
+  use_fcn: False
+
+pretrained: outputs/multi_obj_avg/deeplab_plus_crf/model.pth.tar
+
+# Optimizer
+epochs: 45
+scheduler: step
+scheduler_kwargs:
+   lr_decay_rate: 0.1
+   lr_decay_epochs: [25]
+
+optimizer: sgd 
+optimizer_kwargs:
+   lr: 0.1
+   weight_decay: 0.0001
+   momentum: 0.9
+   nesterov: False
+
+freeze_batchnorm: 'all'

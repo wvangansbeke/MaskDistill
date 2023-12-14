@@ -1,0 +1,133 @@
+# Name                    Version                   Build  Channel
+_libgcc_mutex             0.1                        main  
+absl-py                   1.0.0                    pypi_0    pypi
+blas                      1.0                    openblas  
+blosc                     1.21.0               h5f94dde_0  
+brotli                    1.0.9                he6710b0_2  
+brunsli                   0.1                  h29c3540_0  
+bzip2                     1.0.8                h7b6447c_0  
+c-ares                    1.18.1               h140841e_0  
+ca-certificates           2022.3.18            h6ffa863_0  
+cachetools                5.0.0                    pypi_0    pypi
+certifi                   2021.10.8        py38h6ffa863_2  
+cffi                      1.15.0           py38he068cbb_1  
+cfitsio                   3.470                hf0d0db6_6  
+charls                    2.2.0                h29c3540_0  
+charset-normalizer        2.0.12                   pypi_0    pypi
+cloudpickle               2.0.0              pyhd3eb1b0_0  
+cmake                     3.19.6               h6770f69_0  
+cycler                    0.11.0             pyhd3eb1b0_0  
+cytoolz                   0.11.0           py38h7b6447c_0  
+dask-core                 2022.2.1           pyhd3eb1b0_0  
+detectron2                0.3                       dev_0    <develop>
+easydict                  1.9                      pypi_0    pypi
+expat                     2.4.4                h29c3540_0  
+fonttools                 4.25.0             pyhd3eb1b0_0  
+freetype                  2.11.0               h9215f1b_0  
+fsspec                    2022.2.0           pyhd3eb1b0_0  
+future                    0.18.2                   pypi_0    pypi
+fvcore                    0.1.3.post20210317          pypi_0    pypi
+giflib                    5.2.1                h7b6447c_0  
+google-auth               2.6.2                    pypi_0    pypi
+google-auth-oauthlib      0.4.6                    pypi_0    pypi
+grpcio                    1.44.0                   pypi_0    pypi
+idna                      3.3                      pypi_0    pypi
+imagecodecs               2021.8.26        py38h74076e2_0  
+imageio                   2.9.0              pyhd3eb1b0_0  
+importlib-metadata        4.11.3                   pypi_0    pypi
+iopath                    0.1.9                    pypi_0    pypi
+joblib                    1.1.0              pyhd3eb1b0_0  
+jpeg                      9d                   h140841e_0  
+jxrlib                    1.1                  h7b6447c_2  
+kiwisolver                1.3.2            py38h29c3540_0  
+krb5                      1.19.2               h6205695_0  
+lcms2                     2.12                 h2045e0b_0  
+ld_impl_linux-ppc64le     2.33.1               h0f24833_7  
+lerc                      3.0                  h29c3540_0  
+libaec                    1.0.4                he6710b0_1  
+libcurl                   7.80.0               ha47bf17_0  
+libdeflate                1.8                  h140841e_5  
+libedit                   3.1.20210910         h140841e_0  
+libev                     4.33                 h140841e_1  
+libffi                    3.3                  he6710b0_2  
+libgcc-ng                 8.2.0                h822a55f_1  
+libgfortran-ng            7.3.0                h822a55f_1  
+libnghttp2                1.46.0               hedb86c2_0  
+libopenblas               0.3.17               h04d2106_1  
+libpng                    1.6.37               hbc83047_0  
+libssh2                   1.9.0                h1ba5d50_1  
+libstdcxx-ng              8.2.0                h822a55f_1  
+libtiff                   4.2.0                h781710b_0  
+libuv                     1.40.0               h7b6447c_0  
+libwebp                   1.2.2                he32dc1f_0  
+libwebp-base              1.2.2                h140841e_0  
+libzopfli                 1.0.3                he6710b0_0  
+locket                    0.2.1            py38h6ffa863_2  
+lz4-c                     1.9.3                h29c3540_1  
+markdown                  3.3.6                    pypi_0    pypi
+matplotlib                3.5.1            py38h6ffa863_1  
+matplotlib-base           3.5.1            py38h29c3540_1  
+munkres                   1.1.4                      py_0  
+ncurses                   6.3                  h140841e_2  
+networkx                  2.7.1              pyhd3eb1b0_0  
+numpy                     1.20.3           py38hc544b32_0  
+numpy-base                1.20.3           py38h86143a2_0  
+oauthlib                  3.2.0                    pypi_0    pypi
+olefile                   0.46               pyhd3eb1b0_0  
+openjpeg                  2.4.0                hfe35807_0  
+openssl                   1.1.1n               h140841e_0  
+packaging                 21.3               pyhd3eb1b0_0  
+partd                     1.2.0              pyhd3eb1b0_1  
+pillow                    8.4.0            py38h3f95422_0  
+pip                       21.2.4           py38h6ffa863_0  
+portalocker               2.4.0                    pypi_0    pypi
+protobuf                  3.19.4                   pypi_0    pypi
+pyasn1                    0.4.8                    pypi_0    pypi
+pyasn1-modules            0.2.8                    pypi_0    pypi
+pycocotools               2.0.4                    pypi_0    pypi
+pycparser                 2.21               pyhd3eb1b0_0  
+pydot                     1.4.2                    pypi_0    pypi
+pyparsing                 3.0.4              pyhd3eb1b0_0  
+python                    3.8.13               h836d2c2_0  
+python-dateutil           2.8.2              pyhd3eb1b0_0  
+pywavelets                1.1.1            py38h7b6447c_2  
+pyyaml                    6.0              py38h140841e_1  
+readline                  8.1.2                h140841e_1  
+requests                  2.27.1                   pypi_0    pypi
+requests-oauthlib         1.3.1                    pypi_0    pypi
+rhash                     1.4.1                hb567c45_1  
+rsa                       4.8                      pypi_0    pypi
+scikit-image              0.19.2           py38haab0e66_0  
+scikit-learn              1.0.2            py38haab0e66_1  
+scipy                     1.7.3            py38he743248_0  
+setuptools                58.0.4           py38h6ffa863_0  
+six                       1.16.0             pyhd3eb1b0_1  
+snappy                    1.1.8                he6710b0_0  
+sqlite                    3.38.0               hd7247d8_0  
+tabulate                  0.8.9                    pypi_0    pypi
+tensorboard               2.8.0                    pypi_0    pypi
+tensorboard-data-server   0.6.1                    pypi_0    pypi
+tensorboard-plugin-wit    1.8.1                    pypi_0    pypi
+termcolor                 1.1.0                    pypi_0    pypi
+threadpoolctl             2.2.0              pyh0d69192_0  
+tifffile                  2021.7.2           pyhd3eb1b0_2  
+timm                      0.4.12                   pypi_0    pypi
+tk                        8.6.11               h7e00dab_0  
+toolz                     0.11.2             pyhd3eb1b0_0  
+torch                     1.9.0a0+gitd69c22d          pypi_0    pypi
+torchvision               0.10.0a0+300a8a4          pypi_0    pypi
+tornado                   6.1              py38h140841e_0  
+tqdm                      4.63.1                   pypi_0    pypi
+typing                    3.10.0.0         py38h6ffa863_0  
+typing-extensions         3.10.0.2             hd3eb1b0_0  
+typing_extensions         3.10.0.2           pyh06a4308_0  
+urllib3                   1.26.9                   pypi_0    pypi
+werkzeug                  2.1.0                    pypi_0    pypi
+wheel                     0.37.1             pyhd3eb1b0_0  
+xz                        5.2.5                h140841e_0  
+yacs                      0.1.8                    pypi_0    pypi
+yaml                      0.2.5                h7b6447c_0  
+zfp                       0.5.5                h29c3540_6  
+zipp                      3.7.0                    pypi_0    pypi
+zlib                      1.2.11               h140841e_4  
+zstd                      1.4.9                hc52992f_0  
